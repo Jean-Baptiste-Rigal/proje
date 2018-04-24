@@ -1,2 +1,2 @@
-# proje
+# projet
 Tous mes projets
